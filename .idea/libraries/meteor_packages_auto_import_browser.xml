@@ -87,6 +87,10 @@
         <item url="file://$USER_HOME$/.meteor/packages/ddp-client/1.2.4/web.browser/livedata_common.js" />
         <item url="file://$USER_HOME$/.meteor/packages/ddp-client/1.2.4/web.browser/client_convenience.js" />
         <item url="file://$USER_HOME$/.meteor/packages/ddp-client/1.2.4/web.browser/id_map.js" />
+        <item url="file://$USER_HOME$/.meteor/packages/tmeasday_check-npm-versions/0.2.0/web.browser/check-npm-versions.js" />
+        <item url="file://$USER_HOME$/.meteor/packages/react-meteor-data/0.2.9/web.browser/createContainer.jsx" />
+        <item url="file://$USER_HOME$/.meteor/packages/react-meteor-data/0.2.9/web.browser/react-meteor-data.jsx" />
+        <item url="file://$USER_HOME$/.meteor/packages/react-meteor-data/0.2.9/web.browser/ReactMeteorData.jsx" />
         <item url="file://$USER_HOME$/.meteor/packages/id-map/1.0.6/web.browser/id-map.js" />
         <item url="file://$USER_HOME$/.meteor/packages/jquery/1.11.7/web.browser/jquery.js" />
         <item url="file://$USER_HOME$/.meteor/packages/jquery/1.11.7/web.browser/main.js" />
@@ -222,6 +226,10 @@
       <root url="file://$USER_HOME$/.meteor/packages/ddp-client/1.2.4/web.browser/livedata_common.js" />
       <root url="file://$USER_HOME$/.meteor/packages/ddp-client/1.2.4/web.browser/client_convenience.js" />
       <root url="file://$USER_HOME$/.meteor/packages/ddp-client/1.2.4/web.browser/id_map.js" />
+      <root url="file://$USER_HOME$/.meteor/packages/tmeasday_check-npm-versions/0.2.0/web.browser/check-npm-versions.js" />
+      <root url="file://$USER_HOME$/.meteor/packages/react-meteor-data/0.2.9/web.browser/createContainer.jsx" />
+      <root url="file://$USER_HOME$/.meteor/packages/react-meteor-data/0.2.9/web.browser/react-meteor-data.jsx" />
+      <root url="file://$USER_HOME$/.meteor/packages/react-meteor-data/0.2.9/web.browser/ReactMeteorData.jsx" />
       <root url="file://$USER_HOME$/.meteor/packages/id-map/1.0.6/web.browser/id-map.js" />
       <root url="file://$USER_HOME$/.meteor/packages/jquery/1.11.7/web.browser/jquery.js" />
       <root url="file://$USER_HOME$/.meteor/packages/jquery/1.11.7/web.browser/main.js" />

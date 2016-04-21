@@ -18,6 +18,7 @@
         <item url="file://$USER_HOME$/.meteor/packages/webapp/1.2.7/npm/node_modules/connect/lib/middleware/cookieParser.js" />
         <item url="file://$USER_HOME$/.meteor/packages/webapp/1.2.7/npm/node_modules/connect/lib/middleware/static.js" />
         <item url="file://$USER_HOME$/.meteor/packages/webapp/1.2.7/npm/node_modules/connect/lib/middleware/csrf.js" />
+        <item url="file://$USER_HOME$/.meteor/packages/tmeasday_check-npm-versions/0.2.0/npm/node_modules/semver/semver.js" />
         <item url="file://$USER_HOME$/.meteor/packages/webapp/1.2.7/npm/node_modules/connect/lib/middleware/timeout.js" />
         <item url="file://$USER_HOME$/.meteor/packages/webapp/1.2.7/npm/node_modules/connect/lib/middleware/staticCache.js" />
         <item url="file://$USER_HOME$/.meteor/packages/webapp/1.2.7/npm/node_modules/connect/lib/middleware/favicon.js" />
@@ -223,6 +224,7 @@
       <root url="file://$USER_HOME$/.meteor/packages/webapp/1.2.7/npm/node_modules/connect/lib/middleware/cookieParser.js" />
       <root url="file://$USER_HOME$/.meteor/packages/webapp/1.2.7/npm/node_modules/connect/lib/middleware/static.js" />
       <root url="file://$USER_HOME$/.meteor/packages/webapp/1.2.7/npm/node_modules/connect/lib/middleware/csrf.js" />
+      <root url="file://$USER_HOME$/.meteor/packages/tmeasday_check-npm-versions/0.2.0/npm/node_modules/semver/semver.js" />
       <root url="file://$USER_HOME$/.meteor/packages/webapp/1.2.7/npm/node_modules/connect/lib/middleware/timeout.js" />
       <root url="file://$USER_HOME$/.meteor/packages/webapp/1.2.7/npm/node_modules/connect/lib/middleware/staticCache.js" />
       <root url="file://$USER_HOME$/.meteor/packages/webapp/1.2.7/npm/node_modules/connect/lib/middleware/favicon.js" />
